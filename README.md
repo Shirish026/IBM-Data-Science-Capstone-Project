@@ -33,6 +33,6 @@ To run the code in this repository, you will need the following libraries:
 
 ## 5. Machine Learning Data Models (Classification)
 * Model Development, Refinement and evaluation using standardized metrics (KNN, Logistic Regression, Decision Trees, Support Vector Machines)
-* 
+
 # Contributors
 Shirish Senthil Kumar
