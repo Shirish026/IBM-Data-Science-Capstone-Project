@@ -1,4 +1,4 @@
-# Data Science Project
+# IBM Data Science Capstone Project
 Welcome to our data science project! In this repository, you will find a collection of data analysis, machine learning, and data visualization tools and techniques that we have developed to solve various data science problems.
 * Note: Copy the link and run in https://nbviewer.org/ to have a better viewing experience.
 
