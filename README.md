@@ -1,6 +1,6 @@
 # IBM Data Science Capstone Project - SpaceX First Stage Landing Success
 Welcome to my IBM data science capstone project! In this repository, you will find a collection of data analysis, machine learning, and data visualization tools and techniques that I have developed to find the most accurate launch parameters to get a high success rate of SpaceX first stage landing.
-* Note: Copy the link and run in https://nbviewer.org/ to have a better viewing experience.
+* **Note: Copy the notebook link and run in https://nbviewer.org/ to have a better viewing experience.**
 
 # Contents
 * Data: This folder contains the raw and processed data sets that we used in our analysis.
