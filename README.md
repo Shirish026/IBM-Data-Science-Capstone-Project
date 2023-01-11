@@ -15,7 +15,7 @@ Welcome to my IBM data science capstone project! In this repository, you will fi
 To run the code in this repository, you will need the following libraries:
 * NumPy
 * Pandas
-* Scikit-learn
+* Scikit-learn (Machine Learning)
 * Matplotlib
 * HTML (Dashboarding)
 
